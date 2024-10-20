@@ -1,0 +1,18 @@
+# Backend requirements
+asyncio
+requests
+selenium 
+bleach
+python-owasp-zap-v2.4
+lxml
+reportlab
+bs4
+Flask
+PyJWT
+
+
+# Frontend requirements
+tk
+Pillow
+matplotlib
+requests

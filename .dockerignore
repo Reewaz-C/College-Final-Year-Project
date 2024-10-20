@@ -1,0 +1,20 @@
+# Exclude version control system files
+.git
+.gitignore
+
+# Exclude Python bytecode files
+__pycache__
+*.pyc
+
+# Exclude any local development files or directories
+venv
+.vscode
+
+# Exclude any temporary or build files
+*.log
+*.tmp
+
+# Exclude any IDE or editor configuration files
+.idea
+*.vscode
+
